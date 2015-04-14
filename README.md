@@ -1,6 +1,6 @@
 # Wazery Blog
 
-You can find the blog on `[http://blog.wazery.com](http://blog.wazery.com)`
+You can find the blog on [blog.wazery.com](http://blog.wazery.com)
 
 
 ## Screenshots
