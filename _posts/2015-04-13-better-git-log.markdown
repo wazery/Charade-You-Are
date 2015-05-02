@@ -18,7 +18,9 @@ Then I found that `git log` has a lot of awesome options that can make it really
 
 ###3. `--author` 
 
-###4. All together git log --graph --oneline --decorate 
+###4. `--graph --oneline --decorate` 
+
+All together:
 
 `git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit`
 
