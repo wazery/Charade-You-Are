@@ -25,3 +25,6 @@ All together:
 `git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit`
 
 
+Here is how it looks:
+
+![My git log](http://blog.wazery.com/assets/images/git-log.png)
