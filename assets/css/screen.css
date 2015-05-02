@@ -687,7 +687,7 @@ margin on the iframe, cause it breaks stuff. */
     max-height: 40%;
     background: #f5f8fa;
     background-image: url('http://www.wazery.com/img/poly-bg.png') !important;
-    background-position-y: -155px !important;
+    background-position-y: -255px !important;
     background-position-x: -100px !important;
 }
 
@@ -1717,6 +1717,11 @@ body:not(.post-template) .post-title {
         display: none;
     }
 
+}
+
+
+.content {
+  margin-top: 25px;
 }
 
 
