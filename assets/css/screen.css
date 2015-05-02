@@ -461,9 +461,9 @@ margin on the iframe, cause it breaks stuff. */
 .vertical {
     display: table-cell;
     vertical-align: middle;
-    background-image: url('http://www.wazery.com/img/poly-bg.png');
-    background-position-y: -155px;
-    background-position-x: -100px;
+    background-image: url('http://www.wazery.com/img/poly-bg.png') !important;
+    background-position-y: -241px !important;
+    background-position-x: -100px !important;
 }
 
 
@@ -490,7 +490,7 @@ margin on the iframe, cause it breaks stuff. */
 
 .main-nav {
     position: relative;
-    padding: 35px 40px;
+    padding: 40px 40px;
     margin: 0 0 30px 0;
 }
 
@@ -686,6 +686,9 @@ margin on the iframe, cause it breaks stuff. */
     min-height: 160px;
     max-height: 40%;
     background: #f5f8fa;
+    background-image: url('http://www.wazery.com/img/poly-bg.png') !important;
+    background-position-y: -155px !important;
+    background-position-x: -100px !important;
 }
 
 .no-cover .page-title {
@@ -855,6 +858,7 @@ body:not(.post-template) .post-title {
 
 .post-template .post-title {
     margin-bottom: 0;
+    margin-top: 25px;
 }
 
 .post-template .post-meta {
