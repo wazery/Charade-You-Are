@@ -5,6 +5,8 @@ date:   2015-04-13 02:55:00
 categories: git
 ---
 
+#how rails app is bootstraping
+
 I didn't use `git log` that much before. When I wanted to show the commit history I was using `tig` which is an awesome command that is bundled in packages for **apt-get** and **Homebrew**. 
 
 Then I found that `git log` has a lot of awesome options that can make it really outstand. So I will show you some of them.

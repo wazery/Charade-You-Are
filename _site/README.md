@@ -1,34 +1,20 @@
-# Kasper
+# Wazery Blog
 
-This is a port of Ghost's default theme [Casper](https://github.com/tryghost/casper) for Jekyll. 
-Feel free to fork, change, modify and re-use it.
+You can find the blog on `http://blog.wazery.com`
 
-## How to use it
-
-Simply clone this repository, and then run `jekyll serve` inside the directory.
-
-Kasper theme includes:
-
-* Pagination
-* Rss
-* Google Analytics Tracking code
-* Code Syntax Highlight
-* Author's profile with picture
-* Disqus comments
 
 ## Screenshots
 
 ![index page](https://raw.github.com/rosario/kasper/master/assets/images/kasper-theme-index.png)
 ![post page](https://raw.github.com/rosario/kasper/master/assets/images/kasper-theme-post.png)
 
-
 ## Thanks 
-Most of the work has been already done by the Ghost team, I've just ported Casper to Jekyll. 
-I've also added few things specific to Jekyll and some minor style changes.
+
+I just want to thank **Rosario Rascuna** for porting the Casper theme of Ghost to Jekyll, you can find his project in this [repository](https://github.com/rosario/kasper).
 
 ## Copyright & License
 
-Copyright (C) 2013 Ghost Foundation - Released under the MIT License.
+Copyright (C) 2015 Islam Wazery - Released under the MIT License.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 

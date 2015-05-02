@@ -476,7 +476,7 @@ margin on the iframe, cause it breaks stuff. */
     height: 100%;
     margin-bottom: 5rem;
     text-align: center;
-    background: #222 no-repeat center center;
+    background: #000 no-repeat center center !important;
     background-size: cover;
     overflow: hidden;
 }
@@ -666,7 +666,7 @@ margin on the iframe, cause it breaks stuff. */
     letter-spacing: -1px;
     font-weight: 700;
     font-family: "Open Sans", sans-serif;
-    color: #fff;
+    color: #fff !important;
 }
 
 .page-description {
@@ -686,11 +686,11 @@ margin on the iframe, cause it breaks stuff. */
 }
 
 .no-cover .page-title {
-    color: rgba(0,0,0,0.8);
+    color: rgba(255,255,255,1);
 }
 
 .no-cover .page-description {
-    color: rgba(0,0,0,0.5);
+    color: rgba(255,255,255,1);
 }
 
 .no-cover .main-nav.overlay .back-button,

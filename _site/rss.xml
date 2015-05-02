@@ -5,19 +5,18 @@
   xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
   xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
   <channel>
-    <title>Your New Jekyll Site</title>
-    <link>blog url</link>
-    <description>Blogging about stuffs</description>
-    <pubDate>Sun, 10 Nov 2013 12:18:00 +0200</pubDate>
+    <title>Charade You Are - Wazery's Personal Blog</title>
+    <link>http://blog.wazery.com</link>
+    <description>Rails, Open Source, Sci-Fi, Ambient  Music</description>
+    <pubDate>Mon, 13 Apr 2015 04:55:00 +0200</pubDate>
     <item>
-      <title>Welcome to Jekyll!</title>
-      <link>blog url/thriller/comedy/horror/2013/11/10/welcome-to-jekyll.html</link>
-      <description>&lt;p&gt;You&amp;#39;ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code&gt;-w&lt;/code&gt; switch) to see your changes!
-To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention: YYYY-MM-DD-name-of-post.ext.&lt;/p&gt;
+      <title>Better Git Log</title>
+      <link>http://blog.wazery.com/git/2015/04/13/welcome-to-jekyll.html</link>
+      <description>&lt;p&gt;I didn&amp;#39;t use &lt;code&gt;git log&lt;/code&gt; that much before. When I wanted to show the commit history I was using &lt;code&gt;tig&lt;/code&gt; which is an awesome command that is bundled in packages for &lt;strong&gt;apt-get&lt;/strong&gt; and &lt;strong&gt;Homebrew&lt;/strong&gt;. &lt;/p&gt;
 </description>
-      <pubDate>Sun, 10 Nov 2013 12:18:00 +0200</pubDate>
-      <dc:date>2013-11-10T12:18:00+02:00</dc:date>
+      <pubDate>Mon, 13 Apr 2015 04:55:00 +0200</pubDate>
+      <dc:date>2015-04-13T04:55:00+02:00</dc:date>
     </item>
-    <dc:date>2013-11-10T12:18:00+02:00</dc:date>
+    <dc:date>2015-04-13T04:55:00+02:00</dc:date>
   </channel>
 </rss>
