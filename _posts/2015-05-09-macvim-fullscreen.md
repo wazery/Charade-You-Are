@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "MacVim Full Screen In Yosemite"
-date:   2015-04-13 02:55:00
+date:   2015-05-09 07:28:00
 categories: vim
 ---
 
